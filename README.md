@@ -7,10 +7,7 @@ LEDs. In this example, Jinx runs on a laptop and controls a Pi with
 a rpi-rgb-led-matrix RGB LED displays using Raspberry Pi. The Pi is the sACN E1.31 node.
 A RGB LED displays 32x32 / 32x16 / 64x64 or higher and an add-on board connected for a Raspberry Pi+/3
 
-# rpi-matrix-acn-e1-31
-Controlling up to 64x64 and more RGB LED Matrix Display with sACN E1.31 Protocol
-
-E1.31 is not proper implementet jet.
+E1.31 is not full implemement jet.
 
 ## Preliminary
 
